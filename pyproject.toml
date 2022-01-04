@@ -1,0 +1,6 @@
+#
+# Cak Nyut
+#
+
+[build-system]
+requires = ["setuptools", "wheel", "setuptools-rust"]
